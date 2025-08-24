@@ -51,7 +51,7 @@ The goal is to perform **Exploratory Data Analysis (EDA)** and generate **insigh
    git clone https://github.com/your-username/ipl-data-analysis.git
    cd ipl-data-analysis
 2.Install dependencies
-    pip install -r requirements.txt
+    :-pip install -r requirements.txt
 
 3.Launch Jupyter Notebook
-   jupyter notebook
+   :-jupyter notebook
