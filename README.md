@@ -41,7 +41,7 @@ The goal is to perform **Exploratory Data Analysis (EDA)** and generate **insigh
 ---
 
 ## 📷 Sample Visualizations
-*(Add screenshots/plots from your notebook here)*  
+
 
 ---
 
